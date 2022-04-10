@@ -1,6 +1,8 @@
 # 3D Voxel Designer
 3DVoxelDesigner was written with [Qt](https://www.qt.io/).
+&nbsp;
 This tool is used to manage [Dual Universe](https://www.dualuniverse.game/) items.
+&nbsp;
 Source code has OOP(Object Oriented Programming) structure.
 
 You can download release version [here](https://github.com/happyjongsoft/3DVoxelDesigner/releases/download/Release/3DVoxelDesigner_bin.zip)
@@ -17,9 +19,13 @@ You can download release version [here](https://github.com/happyjongsoft/3DVoxel
 
 ## Videos
 [Watch the video 1](https://www.youtube.com/watch?v=mMXEV2MjSnI)
+&nbsp;
 [Watch the video 2](https://www.youtube.com/watch?v=I_FC2c1aqwA)
+&nbsp;
 [Watch the video 3](https://www.youtube.com/watch?v=cKcPIHqVmZY)
+&nbsp;
 [Watch the video 4](https://www.youtube.com/watch?v=K68VLcDaszg)
+&nbsp;
 
 
 ### Creator
