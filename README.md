@@ -1,5 +1,5 @@
 # 3D Voxel Designer
-3DVoxelDesigner was written with [Qt](https://www.qt.io/).
+3DVoxelDesigner was written with [Qt](https://www.qt.io/). And [Qt3d](https://doc.qt.io/qt-5/qt3d-index.html) is used to render 3D models.
 &nbsp;
 This tool is used to manage [Dual Universe](https://www.dualuniverse.game/) items.
 &nbsp;
